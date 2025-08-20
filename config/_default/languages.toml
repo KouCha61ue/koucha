@@ -2,7 +2,7 @@
 [ja]
 languageName = "日本語"
 languagedirection = "ltr"
-title = "Koucha"
+title = "KouCha"
 weight = 1
 contentDir = "content/japanese"
 
@@ -11,6 +11,6 @@ contentDir = "content/japanese"
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Koucha"
+title = "KouCha"
 weight = 2
 contentDir = "content/english"

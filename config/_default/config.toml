@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://kokilabo.github.io/koucha/"
+baseurl = "https://KouCha61ue.github.io/koucha/"
 languageCode = "ja"
 title = "Koucha"
 

@@ -10,11 +10,11 @@ menu:
 ---
 
 ## About Me
-Hi, I'm Koucha (Koki).  
+Hi, I'm KouCha 
 I'm a self-taught tech enthusiast who enjoys learning by building and experimenting.
 
 ## Profile
-- **Name**: Koucha / Koki
+- **Name**: KouCha
 - **Hobbies**: Walking, reading, exploring tech onlinet
 
 ---
@@ -23,7 +23,7 @@ I'm a self-taught tech enthusiast who enjoys learning by building and experiment
 
 - Web Security
 - Web Development
--	AI Engineering (leveraging LLMs)
+-	LLM
 
 ---
 
@@ -43,5 +43,5 @@ I'm a self-taught tech enthusiast who enjoys learning by building and experiment
 
 ## Links
 
-- **GitHub**: [@kokilabo](https://github.com/kokilabo)  
-- **Twitter**: [@kouchaweb](https://x.com/kouchaweb)
+- **GitHub**: [@kokilabo](https://github.com/KouCha61ue)  
+- **Twitter**: [@kouchaweb](https://x.com/KouCha61ue)

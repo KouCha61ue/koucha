@@ -10,13 +10,13 @@ menu:
 ---
 
 ## あいさつ
-こんにちは、Kouchaです。
+こんにちは、KouChaです。
 個人で技術を学ぶことが好きです。
 
  今後は、学習の記録・技術メモ・実験ログなどを公開していきます。
 
 ## 自己紹介 
-- **名前**: Koucha/Koki 
+- **名前**: KouCha
 - **趣味**: 散歩、読書、ネット 
 ---
 
@@ -24,7 +24,7 @@ menu:
 
 - webセキュリティ
 - web開発
-- AIエンジニアリング（LLM活用）
+- LLM
 
 ---
 ## 技術スタック・使用環境
@@ -43,5 +43,5 @@ menu:
 
 ## リンク集
 
-- **GitHub**: [@kokilabo](https://github.com/kokilabo)
-- **Twitter**: [@kouchaweb](https://x.com/kouchaweb)
+- **GitHub**: [@kokilabo](https://github.com/KouCha61ue)
+- **Twitter**: [@kouchaweb](https://x.com/KouCha61ue)

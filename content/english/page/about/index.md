@@ -43,5 +43,5 @@ I'm a self-taught tech enthusiast who enjoys learning by building and experiment
 
 ## Links
 
-- **GitHub**: [@kokilabo](https://github.com/KouCha61ue)  
-- **Twitter**: [@kouchaweb](https://x.com/KouCha61ue)
+- **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)  
+- **Twitter**: [@KouCha61ue](https://x.com/KouCha61ue)

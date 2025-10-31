@@ -1,13 +1,13 @@
 ## 📚 概要
 
-- 個人的な技術メモをまとめてます。
+This blog is a collection of personal technical notes.
 
 ## 🔧 使用技術
 
-- **静的サイトジェネレーター**: hugo
-- **ホスティング**: GitHub Pages
-- **テーマ**: [stack](https://github.com/CaiJimmy/hugo-theme-stack)
+- **SSG(Static site generators)**: hugo
+- **Hosting**: GitHub Pages
+- **Theme**: [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
-## 🚀 公開URL
+## 🚀 Public URL
 
 [https://KouCha61ue.github.io/koucha/](https://KouCha61ue.github.io/koucha/)    

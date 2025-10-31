@@ -1,8 +1,8 @@
-## 📚 概要
+## 📚 Summary
 
 This blog is a collection of personal technical notes.
 
-## 🔧 使用技術
+## 🔧 Tech Stack
 
 - **SSG(Static site generators)**: hugo
 - **Hosting**: GitHub Pages

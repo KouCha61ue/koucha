@@ -29,7 +29,8 @@ menu:
 
 ---
 
-## リンク集
+## アカウント
 
 - **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)
 - **X**: [@KouCha61ue](https://x.com/KouCha61ue)
+- Discord: @koucha61ue

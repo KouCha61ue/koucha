@@ -33,7 +33,7 @@ I like tinkering with computers.
 
 ---
 
-## Links
+## Accounts
 
 - **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)
 - **X**: [@KouCha61ue](https://x.com/KouCha61ue)

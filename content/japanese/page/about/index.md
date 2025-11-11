@@ -3,7 +3,7 @@ title: About
 aliases:
   - contact
 menu:
-    main: 
+    main:
         weight: -90
         params:
             icon: user
@@ -15,29 +15,19 @@ menu:
 
  今後は、学習の記録・技術メモ・実験ログなどを公開していきます。
 
-## 自己紹介 
+## 自己紹介
 - **名前**: KouCha
-- **趣味**: 散歩、読書、ネット 
+- **趣味**: 散歩、アニメ、コンピュータで遊ぶこと
 ---
 
 ## 興味関心
-
-- webセキュリティ
-- web開発
-- LLM
+- Webおよび低レイヤー技術・セキュリティ
 
 ---
 ## 技術スタック・使用環境
 
-- **OS**: Linux（2022〜2024）, macOS（2024〜現在）
-- **言語経験**: Python, C++, JavaScript
-- **ツール類**: Git, GitHub, Docker, burp suite
-
----
-
-## 今後やりたいこと、方針など
-
-- バグバウンディプラットフォームでの脆弱性報告
+- **OS**: Linux
+- **言語**: Python, JavaScript, C++
 
 ---
 

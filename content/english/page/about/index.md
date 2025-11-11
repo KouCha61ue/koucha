@@ -3,45 +3,36 @@ title: About
 aliases:
   - contact
 menu:
-    main: 
+    main:
         weight: -90
         params:
             icon: user
 ---
 
 ## About Me
-Hi, I'm KouCha 
+Hi, I'm KouCha
 I'm a self-taught tech enthusiast who enjoys learning by building and experimenting.
 
 ## Profile
 - **Name**: KouCha
-- **Hobbies**: Walking, reading, exploring tech onlinet
+- **Hobbies**: walking, anime, and tinkering with computers
 
 ---
 
 # Interests
 
-- Web Security
-- Web Development
--	LLM
+- Web and low-level technologies and security
 
 ---
 
 ## Tech Stack & Environment
 
 - **OS**: Linux (2022–2024), macOS (2024–present)
-- **Programming Languages**: Python, C++, JavaScript (learning), Solidity (learning)
-- **Tools**: Git, GitHub, Docker, Burp Suite
-
----
-
-## Future Goals & Plans
-
-- Reporting vulnerabilities on bug bounty platforms
+- **Programming Languages**: Python, JavaScript, C++
 
 ---
 
 ## Links
 
-- **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)  
+- **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)
 - **Twitter**: [@KouCha61ue](https://x.com/KouCha61ue)

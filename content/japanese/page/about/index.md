@@ -11,9 +11,7 @@ menu:
 
 ## あいさつ
 こんにちは、KouChaです。
-個人で技術を学ぶことが好きです。
-
- 今後は、学習の記録・技術メモ・実験ログなどを公開していきます。
+コンピュータで遊ぶことが好きです。
 
 ## 自己紹介
 - **名前**: KouCha
@@ -24,7 +22,7 @@ menu:
 - Webおよび低レイヤー技術・セキュリティ
 
 ---
-## 技術スタック・使用環境
+## 技術スタック
 
 - **OS**: Linux
 - **言語**: Python, JavaScript, C++
@@ -34,4 +32,4 @@ menu:
 ## リンク集
 
 - **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)
-- **Twitter**: [@KouCha61ue](https://x.com/KouCha61ue)
+- **X**: [@KouCha61ue](https://x.com/KouCha61ue)

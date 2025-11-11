@@ -11,7 +11,8 @@ menu:
 
 ## About Me
 Hi, I'm KouCha
-I'm a self-taught tech enthusiast who enjoys learning by building and experimenting.
+
+I like tinkering with computers.
 
 ## Profile
 - **Name**: KouCha
@@ -25,9 +26,9 @@ I'm a self-taught tech enthusiast who enjoys learning by building and experiment
 
 ---
 
-## Tech Stack & Environment
+## Tech Stack
 
-- **OS**: Linux (2022–2024), macOS (2024–present)
+- **OS**: Linux
 - **Programming Languages**: Python, JavaScript, C++
 
 ---
@@ -35,4 +36,4 @@ I'm a self-taught tech enthusiast who enjoys learning by building and experiment
 ## Links
 
 - **GitHub**: [@KouCha61ue](https://github.com/KouCha61ue)
-- **Twitter**: [@KouCha61ue](https://x.com/KouCha61ue)
+- **X**: [@KouCha61ue](https://x.com/KouCha61ue)
